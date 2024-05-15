@@ -2,61 +2,34 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/design/Screenshot%202024-05-15%20at%202.49.02 PM.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://anthonychaiditya.github.io/social-links-profile/)
 
 ## My process
+
+1. Structure the HTML into containers and corresponding contnet
+2. Style the card top to bottom, make adjustments on the way
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 - Flexbox
-
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I definitely feel like I learned more about structuring HTML in a way that makes the page easier to style, by using containers for specific/related content. I also learned about best practices in regards to styling - ie how and when to use relative or absolute sizing units like rem, em vs. px. According to the blog post I read - properties like padding and margin are best suited to be sized through percentages. Relative unites like rem or em are better suited for global sizing, font-sizing and in my opinion button styling as opposed to absolute units. Viewport ie vw and vh are good for sizing of containers.
 
 ### Continued development
 
-
+I feel like I'm procrastinating the usage of media queries - I also would like to start a mobile first design methodology. In addition, I have not used grid, only flex up to this point and feel like it is important for me to start using grid to get familiar with it.
 
 
 
